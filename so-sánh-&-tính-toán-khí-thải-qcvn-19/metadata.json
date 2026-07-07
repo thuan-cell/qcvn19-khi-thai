@@ -1,6 +1,0 @@
-{
-  "name": "So sánh & Tính toán Khí thải QCVN 19",
-  "description": "Công cụ tính toán, hiệu chỉnh oxy và so sánh nồng độ khí thải công nghiệp theo QCVN 19:2009/BTNMT và QCVN 19:2024/BTNMT.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
